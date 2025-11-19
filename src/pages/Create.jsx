@@ -1,0 +1,1 @@
+export default function Create(){return <h1 className='p-4'>Create Slam Book (To be expanded)</h1>}

@@ -1,0 +1,1 @@
+export default function Fill(){return <h1 className='p-4'>Fill Slam Book (To be expanded)</h1>}

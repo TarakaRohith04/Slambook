@@ -1,0 +1,1 @@
+export default function My(){return <h1 className='p-4'>My Slam Books (To be expanded)</h1>}
